@@ -1,2 +1,6 @@
+lcms.egg-info/*
 .tox/*
 *.pyc
+.coverage
+__coverage__/*
+docs/__build/*
